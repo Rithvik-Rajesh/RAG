@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/rithvikrajesh/Projects/Material_Informatics/Rag/PythonAgentAI",
+      "program": "/Users/rithvikrajesh/Projects/Material_Informatics/Rag/PythonAgentAI/build/Debug/outDebug"
+    }
+  ]
+}
